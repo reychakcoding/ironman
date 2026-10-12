@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 2 | 4.9h | 2 |
+| Week 2 | Tier 2 | 3.9h | 2 |
 
 ## Contents
 
@@ -21,7 +21,7 @@
 
 ### 2026-10-12 – started the project and decided what to build! i found a great last/reference for my shoe size and found a good inspiration. watched a guide on how to model on plasticity and did a basic outline of ho
 
-**3.7h**
+**2.7h**
 
 started the project and decided what to build! i found a great last/reference for my shoe size and found a good inspiration. watched a guide on how to model on plasticity and did a basic outline of how i want it to look!  :D
 
