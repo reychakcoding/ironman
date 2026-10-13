@@ -14,7 +14,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Elegoo TPU Roll](https://www.amazon.com/ELEGOO-Filament-Flexible-Printing-Printers/dp/B0DWSJ3CT3/ref=sr_1_1_sspa?crid=4CFD79ZEIXJX&dib=eyJ2IjoiMSJ9.F9h0AWKzR7lbRG6aGKkhB0ZTCyGGrHJhtr4rWonP2bIPQDn6lz4bfugL15r-8tp0MTwjlgaSDn0HF-0tTzGYY6dDOSXlg-MCkccEQJ4YZzLo_xhL9jjt2mz8kEUxNELdmQlZ-gCwYuhK41MllLm7Bd1EnV_CpR-ekCp1JVFjjcaQZG8OmRkxdkmqt8q-E2jM_InJV2rntmFWTbx0aBw5VdpadFAzWF0V9UW9hQfKKmo.ypKclVL0lp2f2nzFjmRSr72DSEWC6i-BtmtvFKc_YDA&dib_tag=se&keywords=elegoo%2Btpu&qid=1791926481&sprefix=elegoo%2Btp%2Caps%2C209&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1) | I included multiple in case of errors(my printer is prone to errors) and to max out my $65. | 2 | $29.99 | $59.98 | [Elegoo/Amazon](https://www.amazon.com/ELEGOO-Filament-Flexible-Printing-Printers/dp/B0DWSJ3CT3/ref=sr_1_1_sspa?crid=4CFD79ZEIXJX&dib=eyJ2IjoiMSJ9.F9h0AWKzR7lbRG6aGKkhB0ZTCyGGrHJhtr4rWonP2bIPQDn6lz4bfugL15r-8tp0MTwjlgaSDn0HF-0tTzGYY6dDOSXlg-MCkccEQJ4YZzLo_xhL9jjt2mz8kEUxNELdmQlZ-gCwYuhK41MllLm7Bd1EnV_CpR-ekCp1JVFjjcaQZG8OmRkxdkmqt8q-E2jM_InJV2rntmFWTbx0aBw5VdpadFAzWF0V9UW9hQfKKmo.ypKclVL0lp2f2nzFjmRSr72DSEWC6i-BtmtvFKc_YDA&dib_tag=se&keywords=elegoo%2Btpu&qid=1791926481&sprefix=elegoo%2Btp%2Caps%2C209&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1) |
 | **Parts subtotal** | — | — | — | **$59.98** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$59.98** | — |
+| **Tax & shipping** | — | — | — | **$6.57** | — |
+| **Total** | — | — | — | **$66.55** | — |
 
-$5.02 left of the tier's funding.
+**$1.55 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
