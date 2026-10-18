@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 2 | 17.21h | 13 |
+| Week 2 | Tier 2 | 16.91h | 13 |
 
 ## Contents
 
@@ -140,7 +140,7 @@ I smoothed everything down a little bit! A while ago, it looked like a wearable 
 
 ### 2026-10-17 – I found some structural problems in the old model-I'm working on fixing them. The very top part of the slide was really really short, and so I made that part bigger and trimmed it to where it would ac
 
-**1.7h**
+**1.4h**
 
 I found some structural problems in the old model-I'm working on fixing them. The very top part of the slide was really really short, and so I made that part bigger and trimmed it to where it would actually be somewhat confortable.
 
