@@ -1,0 +1,1 @@
+These are Yeezy slides! I wanted to design these as I have seen a lot of people with slides like this and I wanted to do something that was easier for a beginner. I started with Nike Minds, but I realized that these were WAY too complicated and decided to do Yeezys instead.
