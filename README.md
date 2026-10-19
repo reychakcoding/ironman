@@ -1,1 +1,2 @@
 These are Yeezy slides! I wanted to design these as I have seen a lot of people with slides like this and I wanted to do something that was easier for a beginner. I started with Nike Minds, but I realized that these were WAY too complicated and decided to do Yeezys instead.
+<img width="593" height="318" alt="image" src="https://github.com/user-attachments/assets/559b43cf-dbb7-499b-aeb7-5ee6365b98c3" />
