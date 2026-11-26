@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) ([open the project](https://halflife.hackclub.com/projects/cmv5c99tt0hzl01n0ow5d5als)). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> I am going to make TPU shoes based on the Nike Mind 001.
+> These are TPU shoes based on Adidas yeezys. I originally planned on designing the Nike Mind 1, but I decided to make adidas yeezys afterward.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
